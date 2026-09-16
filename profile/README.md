@@ -8,7 +8,7 @@
 <p align="center"><em>Java-native config, plugin-free, with <code>module-info.java</code> treated as a feature, not an afterthought.</em></p>
 
 <p align="center">
-  <a href="https://jenesis.build"><strong>jenesis.build</strong></a>
+  <a href="https://jenesis.build"><strong>jenesis.build</strong> - <stong>hello@jenesis.build</stong></a>
 </p>
 
 ## What this is
