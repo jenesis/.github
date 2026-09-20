@@ -21,7 +21,7 @@ binary, no fetched plugin tree, no daemon.
 
 ```bash
 sdk install jenesis && jenesis-init      # or: curl -fsSL https://get.jenesis.build | bash
-java build/jenesis/Project.java          # build, test and package
+java build/jenesis/Make.java             # build, test and package
 ```
 
 ## The tools
